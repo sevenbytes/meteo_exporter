@@ -1,2 +1,2 @@
 # meteo_exporter
-Weather API exporter for Prometheus
+Norwegian Meteorological Institute and the Norwegian Broadcasting Corporation weather API exporter for Prometheus.
